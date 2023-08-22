@@ -1,7 +1,7 @@
 # Univesidad Central del Ecuador
 # Carrera de Petroleos
 # Materia: Facilidades de Producción
-# Integrantes: Juan Salazar, Jessica Villacis
+# Integrantes: Ana Paula Carrasco, Vanessa Chamorro, Juan Salazar
 
 # Tendencia del petróleo en los últimos diez años
 import numpy as np
